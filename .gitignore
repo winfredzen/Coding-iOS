@@ -17,8 +17,8 @@ DerivedData
 *.ipa
 *.xcuserstate
 
-Coding_iOS/Coding_iOS-Prefix.pch
-Coding_iOS/Coding_Enterprise_iOS-Prefix.pch
+#Coding_iOS/Coding_iOS-Prefix.pch
+#Coding_iOS/Coding_Enterprise_iOS-Prefix.pch
 .DS_Store
 # CocoaPods
 #
@@ -26,8 +26,8 @@ Coding_iOS/Coding_Enterprise_iOS-Prefix.pch
 # you should judge for yourself, the pros and cons are mentioned at:
 # http://guides.cocoapods.org/using/using-cocoapods.html#should-i-ignore-the-pods-directory-in-source-control
 #
-Carthage/
-Pods/
+#Carthage/
+#Pods/
 .idea/
 *.xcbkptlist
 
